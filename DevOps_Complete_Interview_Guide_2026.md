@@ -2054,4 +2054,6 @@ Secrets Manager → Secrets | Lambda → Serverless
 
 ---
 
-*📅 Last Updated: April 2026 | Based on real interview data from FAANG, cloud-native startups, banks, and MSPs*
+
+
+
